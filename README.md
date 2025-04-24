@@ -1,4 +1,4 @@
-# Lingustic Patterns and Airbnb Neighborhood Analysis
+# Linguistic Patterns and Airbnb Neighborhood Analysis
 
 ## Overview
 
